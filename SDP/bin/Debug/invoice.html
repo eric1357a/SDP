@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Example 1</title>
+    <link rel="stylesheet" href=".//style.css" media="all" />
+  </head>
+  <body>
+    <header class="clearfix">
+      <div id="logo">
+        <img src=".//home.png">
+      </div>
+      <h1>INVOICE</h1>
+      <div id="company" class="clearfix">
+        <div>Designer Home Limited</div>
+        <div>[LOCATION]</div>
+        <div>[TELEPHONE]</div>
+      </div>
+      <div id="project">
+		<div><span>INVOICE #</span> [INVOICENO]</div>
+        <div><span>CLIENT</span> [CUSTOMERNAME]</div>
+        <div><span>DATE</span> [DATE]</div>
+      </div>
+    </header>
+    <main>
+      <table>
+        <thead>
+          <tr>
+            <th class="service">PRODUCT ID</th>
+            <th class="desc">PRODUCT NAME</th>
+            <th>PRICE</th>
+            <th>QTY</th>
+            <th>TOTAL</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="service">[PRODUCTID0]</td>
+            <td class="desc">[PRODUCTNAME0]</td>
+            <td class="unit">[ONEPRICE0]</td>
+            <td class="qty">[QUANTITY0]</td>
+            <td class="total">[PRICE0]</td>
+          </tr>
+          <tr>
+            <td class="service">[PRODUCTID1]</td>
+            <td class="desc">[PRODUCTNAME1]</td>
+            <td class="unit">[ONEPRICE1]</td>
+            <td class="qty">[QUANTITY1]</td>
+            <td class="total">[PRICE1]</td>
+          </tr>
+          <tr>
+            <td class="service">[PRODUCTID2]</td>
+            <td class="desc">[PRODUCTNAME2]</td>
+            <td class="unit">[ONEPRICE2]</td>
+            <td class="qty">[QUANTITY2]</td>
+            <td class="total">[PRICE2]</td>
+          </tr>
+          <tr>
+            <td class="service">[PRODUCTID3]</td>
+            <td class="desc">[PRODUCTNAME3]</td>
+            <td class="unit">[ONEPRICE3]</td>
+            <td class="qty">[QUANTITY3]</td>
+            <td class="total">[PRICE3]</td>
+          </tr>
+          <tr>
+            <td colspan="4">SUBTOTAL</td>
+            <td class="total">[TOTAL]</td>
+          </tr>
+          <tr>
+            <td colspan="4" class="grand total">GRAND TOTAL</td>
+            <td class="grand total">[TOTAL]</td>
+          </tr>
+        </tbody>
+      </table>
+      <div id="notices">
+        <div>NOTICE:</div>
+        <div class="notice">A finance charge of 1.5% will be made on unpaid balances after 30 days.</div>
+      </div>
+    </main>
+    <footer>
+      Invoice was created on a computer and is valid without the signature and seal.
+    </footer>
+  </body>
+</html>

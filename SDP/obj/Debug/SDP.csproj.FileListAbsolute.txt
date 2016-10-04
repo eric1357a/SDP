@@ -1,0 +1,340 @@
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\bin\Debug\SDP.exe.config
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\bin\Debug\SDP.exe
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\bin\Debug\SDP.pdb
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form1.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.exe
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.pdb
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form2.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form3.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form4.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form5.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form6.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form7.resources
+c:\users\eric\documents\visual studio 2013\Projects\SDP\SDP\obj\Debug\SDP.Form8.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form1.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form2.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form3.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form4.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form5.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form6.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form7.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Form8.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\English\Downloads\projects\Projects\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+E:\SDP\projects\Projects\SDP\SDP\bin\Debug\SDP.exe.config
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.exe
+E:\SDP\projects\Projects\SDP\SDP\bin\Debug\SDP.exe
+E:\SDP\projects\Projects\SDP\SDP\bin\Debug\SDP.pdb
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form1.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form2.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form3.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form4.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form5.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form6.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form7.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Form8.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+E:\SDP\projects\Projects\SDP\SDP\obj\Debug\SDP.pdb
+D:\SP3\Projects\SDP\SDP\bin\Debug\SDP.exe.config
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.exe
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.pdb
+D:\SP3\Projects\SDP\SDP\bin\Debug\SDP.exe
+D:\SP3\Projects\SDP\SDP\bin\Debug\SDP.pdb
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.Menu.resources
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.AddItem.resources
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.Genreport.resources
+D:\SP3\Projects\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\English\Desktop\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\English\Desktop\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\English\Desktop\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\English\Downloads\SDP-2015-06-07\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\English\Desktop\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-23\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-24\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\User\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\English\Desktop\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\English\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\English\Desktop\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.pdb
+D:\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.exe.config
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.exe
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.pdb
+D:\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.exe
+D:\SDP-2015-06-25\SDP\SDP\bin\Debug\SDP.pdb
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.LoginP.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Menu.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.AddItem.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Genreport.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+D:\SDP-2015-06-25\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\User\Desktop\SDP-2015-06-26 ver1\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\User\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-26 ver2\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.order_details.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-27\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.order_details.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.Invoice.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-28\SDP\SDP\obj\Debug\SDP.reoderreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.Invoice.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.order_details.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.reoderreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\SDP-2015-06-29\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\SDP Program\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.pdb
+E:\SDP\Latest\SDP Program\SDP\SDP\bin\Debug\SDP.exe.config
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.exe
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.pdb
+E:\SDP\Latest\SDP Program\SDP\SDP\bin\Debug\SDP.exe
+E:\SDP\Latest\SDP Program\SDP\SDP\bin\Debug\SDP.pdb
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.Invoice.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.LoginP.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.Menu.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.AddItem.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.order_details.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.reoderreport.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.Genreport.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+E:\SDP\Latest\SDP Program\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.Invoice.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.order_details.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.reoderreport.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\Chinese\Desktop\SDP Program\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\bin\Debug\SDP.exe.config
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.exe
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\bin\Debug\SDP.exe
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\bin\Debug\SDP.pdb
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.csprojResolveAssemblyReference.cache
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.Invoice.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.LoginP.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.Menu.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.AddItem.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.Modify_detail.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.order_details.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.reoderreport.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.SearchItem.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.ModifyItem.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.TakeOrder.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.Genreport.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.Properties.Resources.resources
+C:\Users\ERIC\Desktop\1\SDP Program\SDP\SDP\obj\Debug\SDP.csproj.GenerateResource.Cache

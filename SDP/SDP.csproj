@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3095E0BC-418D-46E3-B115-968734EFA15D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SDP</RootNamespace>
+    <AssemblyName>SDP</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connect.cs" />
+    <Compile Include="dbDataSet.cs">
+      <DependentUpon>dbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="getVar.cs" />
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginP.Designer.cs">
+      <DependentUpon>LoginP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddItem.Designer.cs">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modify_detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modify_detail.Designer.cs">
+      <DependentUpon>Modify_detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="order_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="order_details.Designer.cs">
+      <DependentUpon>order_details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reoderreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reoderreport.Designer.cs">
+      <DependentUpon>reoderreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchItem.Designer.cs">
+      <DependentUpon>SearchItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyItem.Designer.cs">
+      <DependentUpon>ModifyItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TakeOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TakeOrder.Designer.cs">
+      <DependentUpon>TakeOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Genreport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Genreport.Designer.cs">
+      <DependentUpon>Genreport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginP.resx">
+      <DependentUpon>LoginP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddItem.resx">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modify_detail.resx">
+      <DependentUpon>Modify_detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="order_details.resx">
+      <DependentUpon>order_details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reoderreport.resx">
+      <DependentUpon>reoderreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchItem.resx">
+      <DependentUpon>SearchItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyItem.resx">
+      <DependentUpon>ModifyItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TakeOrder.resx">
+      <DependentUpon>TakeOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Genreport.resx">
+      <DependentUpon>Genreport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="dbDataSet.xsc">
+      <DependentUpon>dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbDataSet.xss">
+      <DependentUpon>dbDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet1.xsc">
+      <DependentUpon>dbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbDataSet1.xss">
+      <DependentUpon>dbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet2.xsc">
+      <DependentUpon>dbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbDataSet2.xss">
+      <DependentUpon>dbDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet3.xsc">
+      <DependentUpon>dbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbDataSet3.xss">
+      <DependentUpon>dbDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet4.xsc">
+      <DependentUpon>dbDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="dbDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbDataSet4.xss">
+      <DependentUpon>dbDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
